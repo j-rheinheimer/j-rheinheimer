@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**j-rheinheimer/j-rheinheimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a bachelor in physics, currently studying at the UFABC nanosciences and nanotechnology master program.
 
-Here are some ideas to get you started:
+- My research area is computational and theoretical solid state physics, focused on electronic and atomic simulations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My current project focus on the implementation of quantum nuclear effects on the simulations of light molecules, such as water.
+
+- I love to work with Python, Fortran and C
+
+- I'm a free software and open source enthuasiast
+
+- Linux user and lover
+
+- To reach me: jprheinheimer50@gmail.com
+
